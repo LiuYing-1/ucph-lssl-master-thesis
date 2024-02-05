@@ -4,4 +4,4 @@ This is the repository for my master's thesis at the University of Copenhagen on
 
 ## Techniques
 
-- Bootstrap Your Own Latent (BYOL)
+- Bootstrap Your Own Latent (BYOL) 2024.02.05
