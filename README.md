@@ -1,2 +1,5 @@
 # ucph-lssl-master-thesis
-This is the repostory for my master thesis at the University of Copenhagen with the topic of Longitudinal Self-Supervised Learning Methods.
+
+# Hope to investigate the performance of the relatively recent self-supervision methods on longitudinal images.
+
+This is the repository for my master's thesis at the University of Copenhagen on Longitudinal Self-Supervised Learning Methods.
