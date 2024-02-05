@@ -4,4 +4,11 @@ This is the repository for my master's thesis at the University of Copenhagen on
 
 ## Techniques
 
-- Bootstrap Your Own Latent (BYOL) 2024.02.05
+- Bootstrap Your Own Latent (BYOL) ==> Feb. 5, 2024
+
+## Diary of the Project
+
+- Feb. 5, 2024
+    - Read the BYOL paper
+    - Initiated the repository and Familiarized myself with the git commands
+    - Started to implement the BYOL method
