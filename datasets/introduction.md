@@ -1,8 +1,12 @@
 [toc]
 
-![image-20240207183045591](https://i.imgur.com/DOAzmH2.png)
+![image-20240207193825545](https://i.imgur.com/eBuDcCU.png)
 
 #### Longitudinal fan-beam CT dataset for HNSCC patients
+
+[Full Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510641/)
+
+[TCIA - https://www.cancerimagingarchive.net/collection/hnscc-3dct-rt/](https://www.cancerimagingarchive.net/collection/hnscc-3dct-rt/)
 
 - Longitudinal CT images, HNSCC patients
 
@@ -36,4 +40,8 @@
 
 
 
+![image-20240207211941571](https://i.imgur.com/JCX2iqh.png)
+
 #### A longitudinal 4D CT and cone beam CT dataset for image-guided RT research in lung cancer
+
+The only problem is that it is a bit large for me to download, with over 180 GB.
