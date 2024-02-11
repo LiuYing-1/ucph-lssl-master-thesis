@@ -25,3 +25,21 @@ This is the repository for my master's thesis at the University of Copenhagen on
     - Check the datasets and stop the implementation of BYOL for now.
     - Form the introduction of the datasets and the related works.
     - Email.
+
+- Feb. 8
+    - [x] Download the second dataset into my PC laptop.
+    - [ ] Figure out the structure of the datasets and the related works.
+
+- Feb. 9 ~ 10
+    - Be absent since it is Chinese New Year.
+
+- Feb. 11
+    - [x] Post a blog for BYOL paper.
+    - [x] Think about how to utilize BYOL for the longitudinal data but need help from supervisor.
+
+        !!! The question is how to use the BYOL for the longitudinal data. BYOL itself is to train an encoder to predict the target encoder. But how to use it for the longitudinal data?
+
+    - [] Read the SimSIAM paper.
+    - [] Read the iBOT paper.
+    - [] Read the SwAV paper.
+    - [] Read the DINO paper.
