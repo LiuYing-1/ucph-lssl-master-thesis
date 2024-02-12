@@ -39,7 +39,15 @@ This is the repository for my master's thesis at the University of Copenhagen on
 
         !!! The question is how to use the BYOL for the longitudinal data. BYOL itself is to train an encoder to predict the target encoder. But how to use it for the longitudinal data?
 
-    - [] Read the SimSIAM paper.
+    - [x] Read the SimSIAM paper.
     - [] Read the iBOT paper.
     - [] Read the SwAV paper.
     - [] Read the DINO paper.
+
+- Feb. 12
+    - [x] Read the SwAV paper.
+    - [x] Read the iBOT paper.
+    - [x] Read the DINO paper.
+    - [x] Methods to use for the longitudinal data.
+    - [x] Understand the dataset.
+    - [x] PPT.
