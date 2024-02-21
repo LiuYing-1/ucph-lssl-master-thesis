@@ -51,3 +51,12 @@ This is the repository for my master's thesis at the University of Copenhagen on
     - [x] Methods to use for the longitudinal data.
     - [x] Understand the dataset.
     - [x] PPT.
+
+- Feb. 12 ~ 21
+    - [x] Meeting to report the progress.
+    - [] Be absent to the project since I got a course to attend, and the assignment to submit.
+
+- Feb. 21
+    - [x] partition the dataset.
+    - [] build BYOL
+    - [] write the introduction of the methods.
