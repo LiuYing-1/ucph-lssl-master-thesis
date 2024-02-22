@@ -57,6 +57,9 @@ This is the repository for my master's thesis at the University of Copenhagen on
     - [] Be absent to the project since I got a course to attend, and the assignment to submit.
 
 - Feb. 21
-    - [x] partition the dataset.
+    - [x] upload the 4DCT images to gdrive.
     - [] build BYOL
     - [] write the introduction of the methods.
+
+- Feb. 22
+    - [x] ready to see what can be done with the 4DCT images.
