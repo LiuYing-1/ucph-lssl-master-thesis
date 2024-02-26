@@ -40,9 +40,9 @@ This is the repository for my master's thesis at the University of Copenhagen on
         !!! The question is how to use the BYOL for the longitudinal data. BYOL itself is to train an encoder to predict the target encoder. But how to use it for the longitudinal data?
 
     - [x] Read the SimSIAM paper.
-    - [] Read the iBOT paper.
-    - [] Read the SwAV paper.
-    - [] Read the DINO paper.
+    - [ ] Read the iBOT paper.
+    - [ ] Read the SwAV paper.
+    - [ ] Read the DINO paper.
 
 - Feb. 12
     - [x] Read the SwAV paper.
@@ -54,12 +54,12 @@ This is the repository for my master's thesis at the University of Copenhagen on
 
 - Feb. 12 ~ 21
     - [x] Meeting to report the progress.
-    - [] Be absent to the project since I got a course to attend, and the assignment to submit.
+    - [ ] Be absent to the project since I got a course to attend, and the assignment to submit.
 
 - Feb. 21
     - [x] upload the 4DCT images to gdrive.
-    - [] build BYOL
-    - [] write the introduction of the methods.
+    - [ ] build BYOL
+    - [ ] write the introduction of the methods.
 
 - Feb. 22
     - [x] ready to see what can be done with the 4DCT images.
@@ -71,6 +71,6 @@ This is the repository for my master's thesis at the University of Copenhagen on
     - [x] Train the BYOL method on the 3DCT images.
 
 - Feb. 26
-    - [] Deep into the code and to double check whether there is something wrong with it.
-    - [] Prepare the slides for the meeting.
-    - [] Write the introduction of the methods to form the first draft of the thesis.
+    - [ ] Deep into the code and to double check whether there is something wrong with it.
+    - [ ] Prepare the slides for the meeting.
+    - [ ] Write the introduction of the methods to form the first draft of the thesis.
