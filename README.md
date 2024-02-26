@@ -63,3 +63,14 @@ This is the repository for my master's thesis at the University of Copenhagen on
 
 - Feb. 22
     - [x] ready to see what can be done with the 4DCT images.
+
+- Feb. 23 ~ 25
+    - [x] Throw the 4DCT images into the gdrive.
+    - [x] Extract the last phase of the 4DCT images for all the patients.
+    - [x] Modify the BYOL method from Lucidrains to support the 3DCT images.
+    - [x] Train the BYOL method on the 3DCT images.
+
+- Feb. 26
+    - [] Deep into the code and to double check whether there is something wrong with it.
+    - [] Prepare the slides for the meeting.
+    - [] Write the introduction of the methods to form the first draft of the thesis.
