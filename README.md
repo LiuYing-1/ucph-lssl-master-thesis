@@ -74,3 +74,6 @@ This is the repository for my master's thesis at the University of Copenhagen on
     - [ ] Deep into the code and to double check whether there is something wrong with it.
     - [ ] Prepare the slides for the meeting.
     - [ ] Write the introduction of the methods to form the first draft of the thesis.
+
+- Feb. 28 - Mar. 17
+    - [ ] Review the preivous method and understand the preivous one is not suitable and makes no sense.
